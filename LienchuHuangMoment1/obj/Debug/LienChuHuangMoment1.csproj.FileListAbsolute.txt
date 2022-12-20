@@ -1,0 +1,16 @@
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.exe.config
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.exe
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.pdb
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.AssemblyReference.cache
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.CoreCompileInputs.cache
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.exe
+C:\Users\liarn\source\repos\Programerning2\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.pdb
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.exe.config
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.exe
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\bin\Debug\LienChuHuangMoment1.pdb
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.AssemblyReference.cache
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.csproj.CoreCompileInputs.cache
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.exe
+C:\Users\liarn\source\repos\Programerning2\moment1\LienchuHuangMoment1\LienChuHuangMoment1\LienChuHuangMoment1\obj\Debug\LienChuHuangMoment1.pdb
